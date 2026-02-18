@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<h1 align="center">👋 Hi, I'm Stan</h1>
+<h1 align="center">𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚝𝚞𝚏𝚏 • 𝚂𝚝𝚊𝚗</h1>
 
 ## 🛠️ Tech Stack
 
