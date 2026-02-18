@@ -2,10 +2,6 @@
 
 <h1 align="center">👋 Hi, I'm Stan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%7C+Blockchain+%7C+Cloud" />
-</p>
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -31,9 +27,5 @@
 </picture>
 
 ---
-
-<p align="center">
-  <i>⭐️ Building innovative solutions</i>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
